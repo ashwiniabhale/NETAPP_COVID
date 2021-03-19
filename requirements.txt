@@ -122,7 +122,7 @@ parso==0.5.2
 pathspec==0.7.0
 pdfminer.six==20181108
 pickleshare==0.7.5
-Pillow==6.2.1
+Pillow==8.1.1
 pipwin==0.4.6
 playsound==1.2.2
 pluggy==0.13.1
