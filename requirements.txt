@@ -140,7 +140,7 @@ pycparser==2.19
 pycryptodome==3.9.4
 pyflakes==2.1.1
 pyglet==1.4.10
-Pygments==2.5.2
+Pygments==2.7.4
 pyjsparser==2.7.1
 pylint==2.4.4
 pymssql==2.1.4
