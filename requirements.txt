@@ -202,7 +202,7 @@ tzlocal==1.5.1
 Unidecode==1.1.1
 uritools==3.0.0
 urlextract==0.14.0
-urllib3==1.25.7
+urllib3==1.26.5
 utilities-package==0.0.8
 virtualenv==16.7.9
 visitor==0.1.3
