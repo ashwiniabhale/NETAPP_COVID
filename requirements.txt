@@ -185,7 +185,7 @@ tabview==1.4.3
 tailer==0.4.1
 tempora==2.1.0
 tensorboard==1.8.0
-tensorflow==1.8.0
+tensorflow==2.5.3
 termcolor==1.1.0
 testpath==0.4.4
 textblob==0.15.3
