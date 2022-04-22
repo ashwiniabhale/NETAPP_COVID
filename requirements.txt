@@ -147,7 +147,7 @@ pymssql==2.1.4
 pyodbc==4.0.30
 pyparsing==2.4.6
 pyPdf==1.13
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PyPrind==2.11.2
 pyrsistent==0.15.7
 pyspellchecker==0.5.3
