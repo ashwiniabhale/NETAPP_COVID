@@ -35,7 +35,7 @@ Click==7.0
 colorama==0.4.3
 commonmark==0.9.1
 configparser==4.0.2
-cookiecutter==1.7.0
+cookiecutter==2.1.1
 cookiejar==0.0.2
 corpkit==2.3.8
 coverage==5.0.3
