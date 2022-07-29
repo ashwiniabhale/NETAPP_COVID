@@ -102,7 +102,7 @@ Markdown==3.2.1
 MarkupSafe==1.1.1
 matplotlib==3.1.2
 mccabe==0.6.1
-mistune==0.8.4
+mistune==2.0.3
 more-itertools==8.2.0
 mpyg321==0.0.2
 multidict==4.7.4
